@@ -7,36 +7,60 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
- 
 <div align="center">
  
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🪪 Profile</h3>
-      <table>
-        <tr><td>👤 <b>Name</b></td><td>Omar Mohammed Omar</td></tr>
-        <tr><td>📍 <b>Location</b></td><td>Giza, Egypt</td></tr>
-        <tr><td>🎓 <b>University</b></td><td>Al-Azhar University</td></tr>
-        <tr><td>📚 <b>Degree</b></td><td>Computer & Systems Eng.</td></tr>
-        <tr><td>🗓️ <b>Year</b></td><td>2nd Year (2025 – 2026)</td></tr>
-        <tr><td>💬 <b>Languages</b></td><td>Arabic 🇪🇬 · English 🌍</td></tr>
-      </table>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📍%20Location-Giza%2C%20Egypt-0e75b6?style=for-the-badge"/>
     </td>
-    <td align="center" width="50%">
-      <h3>🎯 Current Focus</h3>
-      <table>
-        <tr><td>📱</td><td>Building production-grade Flutter apps</td></tr>
-        <tr><td>🏗️</td><td>Mastering Clean Architecture & Cubit</td></tr>
-        <tr><td>🔥</td><td>Deepening Firebase & REST API skills</td></tr>
-        <tr><td>🌱</td><td>Growing on GitHub & Open Source</td></tr>
-      </table>
-      <br/>
-      <img src="https://img.shields.io/badge/Motto-Code%20clean.%20Ship%20fast.%20Learn%20always%20🚀-00D9FF?style=flat-square"/>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎓%20University-Al--Azhar%20University-6C3483?style=for-the-badge"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📚%20Year-2nd%20Year%20(2025–2026)-FF6F00?style=for-the-badge"/>
     </td>
   </tr>
 </table>
+ 
+<br/>
+ 
+<table>
+  <tr>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/-📱-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
+      <b>4</b><br/>
+      <sub>Flutter Apps Built</sub>
+    </td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/-🎓-FFCA28?style=for-the-badge&logoColor=black" /><br/>
+      <b>5</b><br/>
+      <sub>Courses Completed</sub>
+    </td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/-🏗️-6C3483?style=for-the-badge&logoColor=white" /><br/>
+      <b>Clean Arch</b><br/>
+      <sub>Architecture of Choice</sub>
+    </td>
+    <td align="center" width="22%">
+      <img src="https://img.shields.io/badge/-🔥-FFCA28?style=for-the-badge&logoColor=black" /><br/>
+      <b>BLoC / Cubit</b><br/>
+      <sub>State Management</sub>
+    </td>
+  </tr>
+</table>
+ 
+<br/>
+ 
+| ⚡ Currently | 🌱 Learning | 💡 Interested In |
+|:---:|:---:|:---:|
+| Building Flutter apps | Advanced Dart patterns | Open Source contributions |
+| Applying Clean Architecture | Firebase deep dive | Cross-platform development |
+| REST API integration | Animations & UI polish | App performance optimization |
+ 
+<br/>
+ 
+> 💬 *"Code clean. Ship fast. Learn always."* 🚀
  
 </div>
 
