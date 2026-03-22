@@ -31,6 +31,8 @@ class OmarMohammed {
   final mindset = "Continuous Learning & Building Real Apps 🚀";
 }
 
+```
+
 ---
 
 ## 🛠️ Tech Stack & Skills
