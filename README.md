@@ -7,24 +7,38 @@
 
 ## 👨‍💻 About Me
 
-```dart
-class OmarMohammed extends FlutterDeveloper {
-  
-  final String name        = "Omar Mohammed Omar";
-  final String location    = "📍 Giza, Egypt";
-  final String university  = "🎓 Al-Azhar University — Computer & Systems Engineering";
-  final String year        = "2nd Year (2025 – 2026)";
-
-  final List<String> currentFocus = [
-    "Building production-grade Flutter apps",
-    "Mastering Clean Architecture & BLoC/Cubit",
-    "Deepening Firebase & REST API integration",
-    "Growing on GitHub & Open Source",
-  ];
-
-  final String motto = "Code clean. Ship fast. Learn always. 🚀";
-}
-```
+## 👨‍💻 About Me
+ 
+<div align="center">
+ 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🪪 Profile</h3>
+      <table>
+        <tr><td>👤 <b>Name</b></td><td>Omar Mohammed Omar</td></tr>
+        <tr><td>📍 <b>Location</b></td><td>Giza, Egypt</td></tr>
+        <tr><td>🎓 <b>University</b></td><td>Al-Azhar University</td></tr>
+        <tr><td>📚 <b>Degree</b></td><td>Computer & Systems Eng.</td></tr>
+        <tr><td>🗓️ <b>Year</b></td><td>2nd Year (2025 – 2026)</td></tr>
+        <tr><td>💬 <b>Languages</b></td><td>Arabic 🇪🇬 · English 🌍</td></tr>
+      </table>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯 Current Focus</h3>
+      <table>
+        <tr><td>📱</td><td>Building production-grade Flutter apps</td></tr>
+        <tr><td>🏗️</td><td>Mastering Clean Architecture & Cubit</td></tr>
+        <tr><td>🔥</td><td>Deepening Firebase & REST API skills</td></tr>
+        <tr><td>🌱</td><td>Growing on GitHub & Open Source</td></tr>
+      </table>
+      <br/>
+      <img src="https://img.shields.io/badge/Motto-Code%20clean.%20Ship%20fast.%20Learn%20always%20🚀-00D9FF?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+ 
+</div>
 
 ---
 
