@@ -5,32 +5,31 @@
 
 
 
-## 👨‍💻 About Me
- 
+## ⚡ About Me
 
-<div align="center">
- 
-👋 Hey! I'm **Omar Mohammed**, a passionate **Flutter Developer** from **Giza, Egypt** 🇪🇬
- 
-I'm currently studying **Computer & Systems Engineering** at **Al-Azhar University** 🎓 (2nd Year)
-and I'm on a mission to craft beautiful, performant mobile apps that people actually love using.
- 
-<br/>
- 
-🏗️ I architect my apps with **Clean Architecture** and manage state with **BLoC / Cubit**
-🔥 I integrate **Firebase** and **REST APIs** to bring apps to life
-💙 **Dart & Flutter** are my tools of choice — and I go deep with them
-🌱 I'm always learning, always building, always improving
- 
-<br/>
- 
----
- 
-💬 *"Code clean. Ship fast. Learn always."* 🚀
- 
----
- 
-</div>
+```dart
+class OmarMohammed {
+  final role = "Flutter Developer";
+  final location = "Egypt 🇪🇬";
+  
+  final education = "Computer & Systems Engineering Student @ Al-Azhar University";
+  
+  final expertise = [
+    "Flutter & Mobile Development",
+    "Clean Architecture & MVVM",
+    "Firebase & REST APIs",
+    "Responsive UI/UX Design"
+  ];
+
+  final projects = [
+    "Hisn Al Muslim App 🕌",
+    "Movie App 🎬",
+    "Tailor Management App 🧵",
+    "Notes App 📝"
+  ];
+
+  final mindset = "Continuous Learning & Building Real Apps 🚀";
+}
 
 ---
 
