@@ -7,50 +7,30 @@
 
 ## 👨‍💻 About Me
  
-```dart
-/// A passionate Flutter Developer from Egypt
-/// who loves turning ideas into elegant mobile experiences.
+
+<div align="center">
  
-@immutable
-class OmarMohammed {
+👋 Hey! I'm **Omar Mohammed**, a passionate **Flutter Developer** from **Giza, Egypt** 🇪🇬
  
-  // --- Identity ---
-  static const String name = "Omar Mohammed Omar";
-  static const String role = "Flutter Developer";
-  static const String location = "Giza, Egypt";
-  static const String email = "omar.mohammed.cv@gmail.com";
+I'm currently studying **Computer & Systems Engineering** at **Al-Azhar University** 🎓 (2nd Year)
+and I'm on a mission to craft beautiful, performant mobile apps that people actually love using.
  
-  // --- Education ---
-  static const String university = "Al-Azhar University";
-  static const String degree = "Computer & Systems Engineering";
-  static const String year = "2nd Year - 2025/2026";
+<br/>
  
-  // --- Tech DNA ---
-  static const String language = "Dart";
-  static const String framework = "Flutter";
-  static const String architecture = "Clean Architecture";
-  static const String stateManagement = "BLoC / Cubit";
-  static const String backend = "Firebase + REST API";
+🏗️ I architect my apps with **Clean Architecture** and manage state with **BLoC / Cubit**
+🔥 I integrate **Firebase** and **REST APIs** to bring apps to life
+💙 **Dart & Flutter** are my tools of choice — and I go deep with them
+🌱 I'm always learning, always building, always improving
  
-  // --- Focus Right Now ---
-  static const List<String> currentlyDoing = [
-    "Shipping production Flutter apps",
-    "Mastering Clean Architecture patterns",
-    "Deepening Firebase & REST API skills",
-    "Growing on GitHub & contributing to Open Source",
-  ];
+<br/>
  
-  // --- Fun Facts ---
-  static const Map<String, String> funFacts = {
-    "Coffee + Code": "My favourite pair",
-    "Best hours": "Late night sessions",
-    "Always reading": "Docs, articles & clean code books",
-    "Dream": "Build apps used by millions",
-  };
+---
  
-  static const String motto = "Code clean. Ship fast. Learn always.";
-}
-````
+💬 *"Code clean. Ship fast. Learn always."* 🚀
+ 
+---
+ 
+</div>
 
 ---
 
