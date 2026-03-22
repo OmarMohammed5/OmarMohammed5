@@ -6,51 +6,51 @@
 
 
 ## 👨‍💻 About Me
-
+ 
 ```dart
-/// 🧑‍💻 A passionate Flutter Developer from Egypt 🇪🇬
+/// A passionate Flutter Developer from Egypt
 /// who loves turning ideas into elegant mobile experiences.
  
 @immutable
 class OmarMohammed {
  
-  // ─────────────────── Identity ───────────────────
-  static const String name       = "Omar Mohammed Omar";
-  static const String role       = "Flutter Developer 📱";
-  static const String location   = "Giza, Egypt 🇪🇬";
-  static const String email      = "omar.mohammed.cv@gmail.com";
+  // --- Identity ---
+  static const String name = "Omar Mohammed Omar";
+  static const String role = "Flutter Developer";
+  static const String location = "Giza, Egypt";
+  static const String email = "omar.mohammed.cv@gmail.com";
  
-  // ─────────────────── Education ──────────────────
-  static const String university = "Al-Azhar University 🎓";
-  static const String degree     = "Computer & Systems Engineering";
-  static const String year       = "2nd Year — 2025/2026";
+  // --- Education ---
+  static const String university = "Al-Azhar University";
+  static const String degree = "Computer & Systems Engineering";
+  static const String year = "2nd Year - 2025/2026";
  
-  // ─────────────────── Tech DNA ───────────────────
-  static const String language        = "Dart 💙";
-  static const String framework       = "Flutter 🐦";
-  static const String architecture    = "Clean Architecture 🏗️";
-  static const String stateManagement = "BLoC / Cubit ⚡";
-  static const String backend         = "Firebase + REST API 🔥";
+  // --- Tech DNA ---
+  static const String language = "Dart";
+  static const String framework = "Flutter";
+  static const String architecture = "Clean Architecture";
+  static const String stateManagement = "BLoC / Cubit";
+  static const String backend = "Firebase + REST API";
  
-  // ─────────────────── Focus Right Now ────────────
+  // --- Focus Right Now ---
   static const List<String> currentlyDoing = [
-    "📱  Shipping production Flutter apps",
-    "🏗️  Mastering Clean Architecture patterns",
-    "🔥  Deepening Firebase & REST API skills",
-    "🌱  Growing on GitHub & contributing to Open Source",
+    "Shipping production Flutter apps",
+    "Mastering Clean Architecture patterns",
+    "Deepening Firebase & REST API skills",
+    "Growing on GitHub & contributing to Open Source",
   ];
  
-  // ─────────────────── Fun Facts ──────────────────
+  // --- Fun Facts ---
   static const Map<String, String> funFacts = {
-    "☕  Coffee + Code":   "My favourite pair",
-    "🌙  Best hours":      "Late night sessions",
-    "📖  Always reading":  "Docs, articles & clean code books",
-    "🚀  Dream":           "Build apps used by millions",
+    "Coffee + Code": "My favourite pair",
+    "Best hours": "Late night sessions",
+    "Always reading": "Docs, articles & clean code books",
+    "Dream": "Build apps used by millions",
   };
  
-  static const String motto = "Code clean. Ship fast. Learn always. 🚀";
+  static const String motto = "Code clean. Ship fast. Learn always.";
 }
-```
+````
 
 ---
 
