@@ -6,13 +6,7 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Flutter+%26+Dart+Developer;🏗️+Clean+Architecture+Enthusiast;📱+Mobile+App+Builder;🔥+Firebase+%26+REST+API+Expert" alt="Typing SVG" />
 
-<br/>
 
-<img src="https://komarev.com/ghpvc/?username=OmarMohammed5&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/OmarMohammed5?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-
-</div>
 
 ---
 
