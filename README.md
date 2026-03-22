@@ -5,56 +5,53 @@
 
 
 
-## 👨‍💼 About Me
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter%20Developer-00C2CB?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-1E90FF?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge" />
-</p>
+👋 Hey! I'm **Omar Mohammed**, a Flutter Developer who enjoys building real-world mobile apps and continuously improving his craft.
 
 ---
 
-🎓 I'm a **Computer & Systems Engineering student at Al-Azhar University**  
-📱 Specialized in building modern mobile apps using **Flutter**
+### 🎓 My Journey
+- 🏫 **Computer & Systems Engineering Student** @ Al-Azhar University  
+- 💻 Started with **Java & OOP fundamentals**  
+- 🧠 Built strong knowledge in **Data Structures & Problem Solving**  
+- 📱 Transitioned into **Flutter Development & Mobile Apps**
 
 ---
 
-### 🚀 What I Do
-- Build scalable Flutter applications  
-- Apply **MVVM & Clean Architecture**  
-- Integrate **REST APIs & Firebase services**  
-- Create responsive and user-friendly UI  
+### 🚀 What I Do Now
+- 📱 Build modern mobile apps using **Flutter**
+- 🏗️ Apply **Clean Architecture & MVVM**
+- 🔗 Integrate **REST APIs & Firebase**
+- 🎨 Focus on **Responsive UI & smooth user experience**
 
 ---
 
-### 💼 Experience Through Projects
-- 🕌 Hisn Al Muslim App  
-- 🎬 Movie App  
-- 🧵 Tailor Shop Management System  
-- 📝 Notes App  
+### 💼 Real Projects I've Built
+- 🕌 Hisn Al Muslim App → Islamic all-in-one app  
+- 🎬 Movie App → API + Firebase powered  
+- 🧵 Tailor Management App → Business solution  
+- 📝 Notes App → Local storage & animations  
 
 ---
 
-### 🔥 Strengths
-- Clean & maintainable code  
-- Strong problem-solving skills  
-- Focus on UI/UX quality  
-- Continuous learner mindset  
+### 🔥 What Drives Me
+- 💡 Turning ideas into real apps  
+- 🧠 Writing clean & scalable code  
+- 📈 Learning something new every day  
 
 ---
 
-### 📈 Currently Growing In
-- Advanced Flutter Architecture  
-- App Performance Optimization  
-- Scalable System Design  
+### 🎯 Current Focus
+- ⚡ Advanced Flutter Architecture  
+- 🚀 Performance Optimization  
+- 🧩 Building scalable production apps  
 
 ---
 
 <p align="center">
-  💬 <i>"Turning ideas into real mobile experiences."</i>
+  💬 <b>"Every line of code is a step forward."</b>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
