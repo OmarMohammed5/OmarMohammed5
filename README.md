@@ -96,8 +96,7 @@ I follow **Clean Architecture** principles and use **BLoC / Cubit** for state ma
       <br/><sub><b>REST API</b></sub>
     </td>
     <td align="center" width="96px">
-      <a href="https://restfulapi.net/"><img src="https://skillicons.dev/icons?i=sqlite" width="48px" alt="SQLite"/></a>
-      <br/><sub><b>SQLite</b></sub>
+      <a href="https://restfulapi.net/">
     </td>
   </tr>
 </table>
