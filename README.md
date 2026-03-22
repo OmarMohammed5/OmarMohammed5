@@ -1,90 +1,129 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=55&descSize=18" width="100%"/>
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Flutter+%26+Dart+Developer;🏗️+Clean+Architecture+Enthusiast;📱+Mobile+App+Builder;🔥+Firebase+%26+REST+API+Expert" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=OmarMohammed5&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/OmarMohammed5?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
- 
+
 <div align="center">
- 
+
 <img src="https://img.shields.io/badge/Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Giza,%20Egypt%20🇪🇬-FF6F00?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logoColor=white"/>
- 
+
 </div>
- 
+
 <br/>
- 
+
 Hi, I'm **Omar Mohammed** — a Flutter Developer passionate about building clean, scalable, and beautiful mobile apps.
- 
+
 I follow **Clean Architecture** principles and use **BLoC / Cubit** for state management, while integrating **Firebase** and **REST APIs** to deliver solid real-world solutions. Currently in my 2nd year of **Computer & Systems Engineering** at **Al-Azhar University**, growing every day through projects and continuous learning.
- 
+
 <br/>
- 
+
 <div align="center">
- 
+
 | 🎯 Focus | 🏗️ Architecture | ⚡ State Management | 🌍 Language |
 |:---:|:---:|:---:|:---:|
 | Flutter Mobile Apps | Clean Architecture | BLoC / Cubit | Arabic & English |
- 
+
 </div>
- 
+
 <br/>
- 
+
 <div align="center">
- 
+
 > 💬 *"Code clean. Ship fast. Learn always."* 🚀
- 
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🔗 🛠️ Tech Stack
 
 <div align="center">
 
-### 📱 Mobile & UI
+<table>
+  <tr>
+    <td align="center" width="96px">
+      <a href="https://flutter.dev/docs"><img src="https://skillicons.dev/icons?i=flutter" width="48px" alt="Flutter"/></a>
+      <br/><sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://dart.dev/guides"><img src="https://skillicons.dev/icons?i=dart" width="48px" alt="Dart"/></a>
+      <br/><sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase" width="48px" alt="Firebase"/></a>
+      <br/><sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" width="48px" alt="Java"/></a>
+      <br/><sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://cppreference.com/"><img src="https://skillicons.dev/icons?i=cpp" width="48px" alt="C++"/></a>
+      <br/><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://developer.android.com/docs"><img src="https://skillicons.dev/icons?i=androidstudio" width="48px" alt="Android Studio"/></a>
+      <br/><sub><b>Android Studio</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96px">
+      <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" width="48px" alt="Git"/></a>
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://github.com/OmarMohammed5"><img src="https://skillicons.dev/icons?i=github" width="48px" alt="GitHub"/></a>
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" width="48px" alt="VS Code"/></a>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://learning.postman.com/docs/"><img src="https://skillicons.dev/icons?i=postman" width="48px" alt="Postman"/></a>
+      <br/><sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://pub.dev/packages/dio"><img src="https://skillicons.dev/icons?i=fastapi" width="48px" alt="REST API"/></a>
+      <br/><sub><b>REST API</b></sub>
+    </td>
+    <td align="center" width="96px">
+      <a href="https://restfulapi.net/"><img src="https://skillicons.dev/icons?i=sqlite" width="48px" alt="SQLite"/></a>
+      <br/><sub><b>SQLite</b></sub>
+    </td>
+  </tr>
+</table>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/docs)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/docs)
+<br/>
 
-### 🔥 Backend & Cloud
+**Architecture & Patterns**
 
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
-[![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+<br/>
 
-### 🧠 Languages
-
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cppreference.com/)
-
-### 🏗️ Architecture & Patterns
-
-[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6C3483?style=for-the-badge&logoColor=white)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-[![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-[![SOLID](https://img.shields.io/badge/SOLID%20Principles-2E86C1?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/SOLID)
-[![BLoC/Cubit](https://img.shields.io/badge/BLoC%20%2F%20Cubit-5C2D91?style=for-the-badge&logo=flutter&logoColor=white)](https://bloclibrary.dev/)
-
-### 🛠️ Tools & Version Control
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarMohammed5)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://learning.postman.com/docs/)
-
-### 📦 Libraries & Packages
-
-[![Dio](https://img.shields.io/badge/Dio-00D9FF?style=for-the-badge&logoColor=black)](https://pub.dev/packages/dio)
-[![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logoColor=white)](https://pub.dev/packages/hive)
-[![SharedPreferences](https://img.shields.io/badge/SharedPreferences-4CAF50?style=for-the-badge&logoColor=white)](https://pub.dev/packages/shared_preferences)
+![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-2E7D32?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-1565C0?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-6A1B9A?style=for-the-badge)
+![BLoC/Cubit](https://img.shields.io/badge/BLOC%20%2F%20CUBIT-7B1FA2?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/DEPENDENCY%20INJECTION-00695C?style=for-the-badge)
 
 </div>
 
