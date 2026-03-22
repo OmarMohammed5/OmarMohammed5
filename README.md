@@ -5,33 +5,55 @@
 
 
 
-## ⚡ About Me
+## 👨‍💼 About Me
 
-```dart
-class OmarMohammed {
-  final role = "Flutter Developer";
-  final location = "Egypt 🇪🇬";
-  
-  final education = "Computer & Systems Engineering Student @ Al-Azhar University";
-  
-  final expertise = [
-    "Flutter & Mobile Development",
-    "Clean Architecture & MVVM",
-    "Firebase & REST APIs",
-    "Responsive UI/UX Design"
-  ];
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-00C2CB?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering%20Student-1E90FF?style=for-the-badge&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-FF6F00?style=for-the-badge" />
+</p>
 
-  final projects = [
-    "Hisn Al Muslim App 🕌",
-    "Movie App 🎬",
-    "Tailor Management App 🧵",
-    "Notes App 📝"
-  ];
+---
 
-  final mindset = "Continuous Learning & Building Real Apps 🚀";
-}
+🎓 I'm a **Computer & Systems Engineering student at Al-Azhar University**  
+📱 Specialized in building modern mobile apps using **Flutter**
 
-```
+---
+
+### 🚀 What I Do
+- Build scalable Flutter applications  
+- Apply **MVVM & Clean Architecture**  
+- Integrate **REST APIs & Firebase services**  
+- Create responsive and user-friendly UI  
+
+---
+
+### 💼 Experience Through Projects
+- 🕌 Hisn Al Muslim App  
+- 🎬 Movie App  
+- 🧵 Tailor Shop Management System  
+- 📝 Notes App  
+
+---
+
+### 🔥 Strengths
+- Clean & maintainable code  
+- Strong problem-solving skills  
+- Focus on UI/UX quality  
+- Continuous learner mindset  
+
+---
+
+### 📈 Currently Growing In
+- Advanced Flutter Architecture  
+- App Performance Optimization  
+- Scalable System Design  
+
+---
+
+<p align="center">
+  💬 <i>"Turning ideas into real mobile experiences."</i>
+</p>
 
 ---
 
