@@ -1,18 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Application%20%7C%20MFlutter%20&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🚀+Flutter+%26+Dart+Developer;🏗️+Clean+Architecture+Enthusiast;📱+Mobile+App+Builder;🔥+Firebase+%26+REST+API+Expert" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=OmarMohammed5&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/OmarMohammed5?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mobile%20Application%20Developer%20%7C%20Flutter%20&descAlignY=55&descSize=18" width="100%"/>
 
 ---
 
