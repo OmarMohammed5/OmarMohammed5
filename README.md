@@ -4,54 +4,44 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Omar%20Mohammed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Flutter%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 
-
-## 🧭 About Me
-
-👋 Hey! I'm **Omar Mohammed**, a Flutter Developer who enjoys building real-world mobile apps and continuously improving his craft.
-
 ---
 
-### 🎓 My Journey
-- 🏫 **Computer & Systems Engineering Student** @ Al-Azhar University  
-- 💻 Started with **Java & OOP fundamentals**  
-- 🧠 Built strong knowledge in **Data Structures & Problem Solving**  
-- 📱 Transitioned into **Flutter Development & Mobile Apps**
+## 👨‍💻 About Me
+ 
+<div align="center">
+ 
+<img src="https://img.shields.io/badge/Flutter%20Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Giza,%20Egypt%20🇪🇬-FF6F00?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logoColor=white"/>
+ 
+</div>
+ 
+<br/>
+ 
+Hi, I'm **Omar Mohammed** — a Flutter Developer passionate about building clean, scalable, and beautiful mobile apps.
+ 
+I follow **Clean Architecture** principles and use **BLoC / Cubit** for state management, while integrating **Firebase** and **REST APIs** to deliver solid real-world solutions. Currently in my 2nd year of **Computer & Systems Engineering** at **Al-Azhar University**, growing every day through projects and continuous learning.
+ 
+<br/>
+ 
+<div align="center">
+ 
+| 🎯 Focus | 🏗️ Architecture | ⚡ State Management | 🌍 Language |
+|:---:|:---:|:---:|:---:|
+| Flutter Mobile Apps | Clean Architecture | BLoC / Cubit | Arabic & English |
+ 
+</div>
+ 
+<br/>
+ 
+<div align="center">
+ 
+> 💬 *"Code clean. Ship fast. Learn always."* 🚀
+ 
+</div>
 
----
-
-### 🚀 What I Do Now
-- 📱 Build modern mobile apps using **Flutter**
-- 🏗️ Apply **Clean Architecture & MVVM**
-- 🔗 Integrate **REST APIs & Firebase**
-- 🎨 Focus on **Responsive UI & smooth user experience**
-
----
-
-### 💼 Real Projects I've Built
-- 🕌 Hisn Al Muslim App → Islamic all-in-one app  
-- 🎬 Movie App → API + Firebase powered  
-- 🧵 Tailor Management App → Business solution  
-- 📝 Notes App → Local storage & animations  
-
----
-
-### 🔥 What Drives Me
-- 💡 Turning ideas into real apps  
-- 🧠 Writing clean & scalable code  
-- 📈 Learning something new every day  
-
----
-
-### 🎯 Current Focus
-- ⚡ Advanced Flutter Architecture  
-- 🚀 Performance Optimization  
-- 🧩 Building scalable production apps  
-
----
-
-<p align="center">
-  💬 <b>"Every line of code is a step forward."</b>
-</p>
 ---
 
 ## 🛠️ Tech Stack & Skills
